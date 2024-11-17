@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @StephanieChrispim
 - 👀 Sou estudante de Análise em Desenvolvimento de Sistemas
-- 🌵Linguagens de programação estudadas C
+- 🌵Linguagens de programação C
 - 😄 Pronouns: She/ Her
