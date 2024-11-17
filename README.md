@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @StephanieChrispim
-- 👀 I’m interested in Análise em Desenvolvimento de Sistemas
+- 👀 Sou estudante de Análise em Desenvolvimento de Sistemas
+- 🌵Linguagens de programação estudadas C
 - 😄 Pronouns: She/ Her
